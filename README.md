@@ -82,7 +82,7 @@ If things goes well, this section should automatically be replaced by a list of 
 <br/>  
 
 <div align="center">
-            <a href="zarinp.al/masoodsh77" target="_blank" style="display: inline-block;">
+            <a href="https://zarinp.al/masoodsh77" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/DONATE-zarinpal-yellow" 
                     align="center"
