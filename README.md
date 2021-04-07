@@ -1,35 +1,92 @@
-# Hi there my name is Masood👋
-### Welcome To my Github Profile
-<!--
-**masoodsh77/masoodsh77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img src="https://camo.githubusercontent.com/14ac7133ece5322bf52e03c1d54a3fea60600436318cfd651e74c5d297af1fa6/68747470733a2f2f73746f726d6f74696f6e2e696f2f626c6f672f636f6e74656e742f696d616765732f323031382f31322f646576656c6f7065722e676966" align="center" style="width: 100%" />
+</div>  
+  
 
-Here are some ideas to get you started:
+### <div align="center">Welcome To my Github Profile
+🌱 I’m currently learning From Maktab Sharif academy</div>  
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-🌱 I’m currently learning From Maktab Sharif academy
+- 🔭 I’m currently learning in maktab shar  
+  
 
-<p align="center">
-  <img src="https://stormotion.io/blog/content/images/2018/12/developer.gif" alt="animated" />
-</p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api?username=masoodsh77&show_icons=true&include_all_commits=true&theme=material-palenight)
-![mattn's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=masoodsh77&layout=compact&theme=material-palenight&langs_count=12)
+<br/>  
 
 
-## What i Know
-![javascript](https://img.icons8.com/dusk/64/000000/javascript-logo.png)
-![react](https://img.icons8.com/officel/64/000000/react.png)
-![sass](https://img.icons8.com/color/64/000000/sass.png)
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
 
-## How to reach me
-<a href="https://t.me/masoodsh77" target="_blank"><img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="32"/></a>
-<a href="https://www.linkedin.com/in/masood-shaterabadi-604b0398/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="32"/></a>
+
+### Frontend  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/masoodsh77" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/Pcdoki1" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/masood-shaterabadi-604b0398" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/mrm_1994" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=masoodsh77&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masoodsh77&hide_border=true&layout=compact" align="left" />  
+
+<br/>  
+
+
+## Recent Blog Posts  
+<!-- BLOG-POST-LIST:START -->  
+If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:END -->  
+
+<br/>  
+
+  
+
+<br/>  
+
+<div align="center">
+            <a href="zarinp.al/masoodsh77" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/DONATE-zarinpal-yellow" 
+                    align="center"
+                />
+            </a>
+      </div>
+<br />
