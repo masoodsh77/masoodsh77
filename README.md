@@ -88,5 +88,11 @@ If things goes well, this section should automatically be replaced by a list of 
                     align="center"
                 />
             </a>
+            <a href="https://user-images.githubusercontent.com/26571579/113822392-a25dae80-9792-11eb-9e03-830ad843f2ae.png" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/DONATE-BITCOIN-orange" 
+                    align="center"
+                />
+            </a>
       </div>
 <br />
