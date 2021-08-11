@@ -4,10 +4,10 @@
   
 
 ### <div align="center">Welcome To my Github Profile
-🌱 I’m currently learning From Maktab Sharif academy</div>  
+🌱 I’m currently working at Rasmio Company</div>  
   
 
-- 🔭 I’m currently learning in maktab shar  
+- 🔭 I’m currently working at Rasmio Company
   
 
 <br/>  
