@@ -64,11 +64,15 @@
 
 ## Github Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masoodsh77&show_icons=true&count_private=true&hide_border=true" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=masoodsh77&show_icons=true&count_private=true&hide_border=true&theme=monokai" align="center" />
 </div>  
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masoodsh77&hide_border=true&layout=compact" align="center" />  
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=masoodsh77&theme=monokai"/>
+ </div>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masoodsh77&hide_border=true&layout=compact&theme=monokai" align="center" />  
 </div>
+
 <br/>  
 
 
