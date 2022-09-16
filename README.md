@@ -4,10 +4,10 @@
   
 
 ### <div align="center">Welcome To my Github Profile
-🌱 I’m currently working at Rasmio Company</div>  
+🌱 I’m currently working at Barg Company</div>  
   
 
-- 🔭 I’m currently working at Rasmio Company
+- 🔭 I’m currently working at Barg Company in Garden of Love project
   
 
 <br/>  
